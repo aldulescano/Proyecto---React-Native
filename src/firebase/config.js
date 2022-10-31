@@ -8,7 +8,7 @@ const firebaseConfig = {
     storageBucket: "manga-review.appspot.com",
     messagingSenderId: "796969315322",
     appId: "1:796969315322:web:5a290f7185092490a39243"
-  };
+};
 
 app.initializeApp(firebaseConfig);
 
